@@ -1,0 +1,1 @@
+This is a plain text file. Adding this file using git shell command.
